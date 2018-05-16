@@ -1,0 +1,6 @@
+D:\kpi\Rider\project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\kpi\Rider\project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\kpi\Rider\project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\kpi\Rider\project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\kpi\Rider\project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\kpi\Rider\project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
